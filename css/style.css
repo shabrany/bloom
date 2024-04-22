@@ -61,7 +61,8 @@ body {
 .header-desc-text {
     margin-bottom: 40px;
 }
-.header-desc a {
+
+.button-orange {
     text-decoration: none;
     color: #fff;
     padding: 10px 20px;
@@ -71,4 +72,29 @@ body {
 
 .header-img {
     width: 60%;
+}
+
+.blog-container h1 {
+    margin-bottom: 2px;
+}
+
+
+.blog-item {
+    padding: 20px;
+}
+
+.blog-item img {
+    width: 100%;
+}
+.blog-item h2 {
+    font-size: 20px;
+    margin: 8px 0;
+}
+.blog-item p {
+    margin: 0 0 35px;
+}
+
+.blog-inner {
+    margin-left: -20px;
+    margin-right: -20px;
 }
